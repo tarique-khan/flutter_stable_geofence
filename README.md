@@ -56,7 +56,7 @@ geoFenceService.geoFenceStatusListener.listen((geoFenceStatus) => {
 })
 ```
 
-##### Important: As the geoFenceStatusListener is a stream so do not forgot to cancel it when the widget gets dispose().
+### Important: As the geoFenceStatusListener is a stream so do not forgot to cancel it when the widget gets dispose().
 
 Note: This library doesn't work when the app is in the background.
 
