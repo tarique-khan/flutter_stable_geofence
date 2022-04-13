@@ -6,8 +6,6 @@ A flutter project to provide Geo Fence functionality in Android and IOS
 
 ## Getting Started
 
-## Getting Started
-
 Android
 
 In your AndroidManifest.xml you should add the following lines:
